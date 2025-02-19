@@ -3,7 +3,6 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -14,7 +13,6 @@ body{
     cursor: pointer;
     border-radius: 10px;
     padding: 4px 6px;
-    width: 100px;
 }
 
 .black{
@@ -22,7 +20,6 @@ body{
     cursor: pointer;
     border-radius: 6px;
     padding: 4px 6px;
-    width: 75px;
     color: white;
 }
 
@@ -31,7 +28,6 @@ body{
     cursor: pointer;
     border-radius: 6px;
     padding: 4px 6px;
-    width: 75px;
 }
 
 .reset{
@@ -39,7 +35,6 @@ body{
     cursor: pointer;
     border-radius: 6px;
     padding: 4px 6px;
-    width: 75px;
 }
 
 .header{
@@ -48,7 +43,6 @@ body{
     align-items: center;
     width: 400px;
     justify-content: space-around;
-    margin-bottom: 20px;
 }
 
 .footer{
@@ -57,7 +51,6 @@ body{
     align-items: center;
     width: 500px;
     justify-content: space-between;
-    margin-top: 20px;
 }
 
 .container{
